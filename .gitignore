@@ -1,0 +1,13 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*~
+*.mexa64
+*.mexmaci64
+*.mexmaca64
+*.mexw64
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/

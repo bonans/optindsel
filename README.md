@@ -5,11 +5,11 @@
 [![MATLAB][code-badge]][code-link]
 [![License: MIT][license-badge]](LICENSE.txt)
 
-[doi-badge]: https://img.shields.io/badge/DOI-10.48550/arXiv.XXXX.XXXXX-blue
-[doi-link]: https://doi.org/10.48550/arXiv.XXXX.XXXXX
+[doi-badge]: https://img.shields.io/badge/DOI-10.48550/arXiv.2611.34506-blue
+[doi-link]: https://doi.org/10.48550/arXiv.2611.34506
 
-[arxiv-badge]: https://img.shields.io/badge/arXiv-XXXX.XXXXX-red
-[arxiv-link]: https://arxiv.org/abs/XXXX.XXXXX
+[arxiv-badge]: https://img.shields.io/badge/arXiv-2611.34506-red
+[arxiv-link]: https://arxiv.org/abs/2611.34506
 
 [code-badge]: https://img.shields.io/badge/MATLAB-≥R2022a-blue.svg
 [code-link]: https://www.mathworks.com/products/matlab.html
@@ -20,7 +20,7 @@ This repository contains the MATLAB implementations and reproducibility scripts 
 
 Bonan Sun<br>
 *Selecting* $2 \times 2$ *submatrices with optimally bounded inverses*<br>
-Preprint, 2026
+arXiv preprint, [arXiv:2611.34506](https://arxiv.org/abs/2611.34506), 2026, https://doi.org/10.48550/arXiv.2611.34506
 
 ## Requirements
 
@@ -114,9 +114,11 @@ If you use this code, please cite:
 
 ```bibtex
 @misc{Sun2026opt2,
-  title        = {Selecting {$2 \times 2$} submatrices with optimally bounded inverses},
   author       = {Sun, Bonan},
-  howpublished = {arXiv preprint arXiv:XXXX.XXXXX},
-  year         = {2026}
+  title        = {Selecting {$2 \times 2$} submatrices with optimally bounded inverses},
+  howpublished = {arXiv preprint arXiv:2611.34506},
+  year         = {2026},
+  doi          = {10.48550/arXiv.2611.34506},
+  url          = {https://doi.org/10.48550/arXiv.2611.34506}
 }
 ```
